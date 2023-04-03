@@ -27,7 +27,7 @@ technical_background:
   ]
   
 currently_learning: ["Elixir, Phoenix LiveView"]
-currently_reading:  ["Never, by KennFollet"]
+currently_reading:  ["Never, by Ken Follet"]
 topics_of_interest: ["tech", "cats", "personal development", "music", "books"]
 ```
   
