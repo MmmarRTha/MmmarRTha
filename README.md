@@ -11,7 +11,7 @@ current_job: Full Stack Web Developer Jr.
 education:
   [
     "Self-Taught Learner",
-    "Majored in Software Development Engineering at UNADM",
+    "Bachelor in Software Development Engineering at UNADM",
   ]
 company: Layer7
 
