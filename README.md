@@ -11,7 +11,7 @@ current_job: Full Stack Web Developer Jr.
 education:
   [
     "Self-Taught Learner",
-    "Majored in Software Development Engineering [UNADM](https://www.unadmexico.mx/)",
+    "Majored in Software Development Engineering at UNADM",
   ]
 company: Layer7
 
@@ -35,9 +35,9 @@ topics_of_interest: ["tech", "cats", "personal development", "music", "books"]
 <h2>You can find me:
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35">
 </h2>
-<a href="mailto:marthanieto2k4@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marthamnieto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://twitter.com/mmmarrtha/" target="_blank"><img src="https://img.shields.io/twitter/follow/mmmarrtha?style=social"></a> 
+<a href="mailto:marthanieto2k4@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
 
 ---
 
@@ -45,7 +45,7 @@ topics_of_interest: ["tech", "cats", "personal development", "music", "books"]
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" alt="androidstudio" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="bash" width="45" height="45"/>
@@ -64,12 +64,12 @@ topics_of_interest: ["tech", "cats", "personal development", "music", "books"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="composer" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="45" height="45"/>
 </p>
  
  ---
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
  ![MmmarRTha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MmmarRTha&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MmmarRTha&langs_count=10)](https://github.com/MmmarRTha/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MmmarRTha&langs_count=10&layout=compact)](https://github.com/MmmarRTha/github-readme-stats)
 
