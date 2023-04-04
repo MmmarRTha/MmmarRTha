@@ -7,7 +7,7 @@
 ```yaml
 name: Martha Nieto
 located_in: Tijuana, Mexico
-current_job: Full Stack Web Developer Jr.
+current_job: Jr. Full Stack Web Developer 
 education:
   [
     "Self-Taught Learner",
