@@ -1,4 +1,4 @@
-# Hello, My name is Martha! 👋
+# Hello, My name is Martha!
 
 <h2>A Little Bit About Me and My Interests
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
@@ -36,9 +36,7 @@ topics_of_interest: ["tech", "cats", "personal development", "music", "books"]
 <h2>You can find me:
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35">
 </h2>
-<a href="https://www.linkedin.com/in/marthamnieto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://twitter.com/mmmarrtha/" target="_blank"><img src="https://img.shields.io/twitter/follow/mmmarrtha?style=social"></a> 
-<a href="mailto:marthanieto2k4@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marthamnieto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
 
