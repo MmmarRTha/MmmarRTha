@@ -30,13 +30,6 @@ currently_learning: ["Elixir, Phoenix LiveView"]
 currently_reading:  ["Never, by Ken Follet"]
 topics_of_interest: ["tech", "cats", "personal development", "music", "books"]
 ```
-  
----  
-
-<h2>You can find me:
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35">
-</h2>
-<a href="https://www.linkedin.com/in/marthamnieto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
 
