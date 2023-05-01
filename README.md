@@ -65,6 +65,6 @@ topics_of_interest: ["tech", "cats", "personal development", "music", "books"]
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MmmarRTha&langs_count=10&layout=compact)](https://github.com/MmmarRTha/github-readme-stats)
  ---
  <p align="center">
-   ![](https://komarev.com/ghpvc/?username=MmmarRTha&color=blueviolet)
+   <img src="https://komarev.com/ghpvc/?username=MmmarRTha&color=blueviolet"/>
  </p>
 
