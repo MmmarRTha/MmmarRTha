@@ -1,4 +1,4 @@
-# Hello, My name is Martha!
+# Hello, this is Martha!
 
 <h2>A Little Bit About Me and My Interests
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
@@ -7,13 +7,12 @@
 ```yaml
 name: Martha Nieto
 located_in: Tijuana, Mexico
-current_job: Jr. Full Stack Web Developer 
+current_job: Jr. Full Stack Developer 
 education:
   [
     "Self-Taught Learner",
     "Bachelor in Software Development Engineering at UNADM",
   ]
-company: Layer7
 
 fields_of_interests:
   [
@@ -64,4 +63,9 @@ topics_of_interest: ["tech", "cats", "personal development", "music", "books"]
 
  ![MmmarRTha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MmmarRTha&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MmmarRTha&langs_count=10&layout=compact)](https://github.com/MmmarRTha/github-readme-stats)
+ 
+ <p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=MmmarRTha.MmmarRTha" alt="visitors"/>
+ </p>
+ 
 
