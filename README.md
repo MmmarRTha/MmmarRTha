@@ -63,9 +63,5 @@ topics_of_interest: ["tech", "cats", "personal development", "music", "books"]
 
  ![MmmarRTha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MmmarRTha&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MmmarRTha&langs_count=10&layout=compact)](https://github.com/MmmarRTha/github-readme-stats)
- 
- <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=MmmarRTha.MmmarRTha" alt="visitors"/>
- </p>
- 
+ ![](https://komarev.com/ghpvc/?username=MmmarRTha=blueviolet)
 
