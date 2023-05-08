@@ -12,12 +12,6 @@ education:
     "Bachelor in Software Development Engineering at UNADM",
   ]
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Mobile Development",
-    "DevOps",
-  ]
 technical_background:
   [
     "Intern - Full Stack Developer",
