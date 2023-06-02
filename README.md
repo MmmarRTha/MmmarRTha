@@ -13,6 +13,7 @@ education:
 
 technical_background:
   [
+    "Fullstack Developer",
     "Intern - Full Stack Developer",
   ]
   
