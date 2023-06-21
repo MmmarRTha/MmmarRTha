@@ -17,7 +17,7 @@ technical_background:
     "Intern - Full Stack Web Developer",
   ]
   
-currently_learning: ["Elixir, Phoenix LiveView"]
+currently_learning: ["Erlang, Elixir, Phoenix LiveView"]
 currently_reading:  ["Never, by Ken Follet"]
 topics_of_interest: ["tech", "cats", "personal development", "music", "books"]
 ```
