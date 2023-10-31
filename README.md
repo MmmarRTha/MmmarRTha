@@ -4,11 +4,11 @@
 
 ```yaml
 name: Martha Nieto
-located_in: Tijuana
+located_in: Tijuana México
 education:
   [
+    "Software Development Engineering at UnADM",
     "Self-Taught Learner",
-    "Bachelor in Software Development Engineering at UNADM",
   ]
 
 technical_background:
