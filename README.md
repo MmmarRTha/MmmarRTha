@@ -18,7 +18,7 @@ technical_background:
   ]
   
 currently_learning: ["Elixir, Phoenix LiveView, TypeScript, React, Next.js"]
-currently_reading:  ["Never, by Ken Follet"]
+currently_reading:  ["Elixir in Action, by Saša Jurić, Third edition"]
 topics_of_interest: ["tech", "cats", "personal development", "music", "books"]
 ```
 
