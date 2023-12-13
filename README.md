@@ -18,7 +18,7 @@ technical_background:
   ]
   
 currently_learning: ["Elixir, Phoenix LiveView, TypeScript, React, Next.js"]
-currently_reading:  ["Elixir in Action, by Saša Jurić, Third edition"]
+currently_reading:  ["The Effective Engineer, Edmond Lau"]
 topics_of_interest: ["tech", "cats", "personal development", "music", "books"]
 ```
 
