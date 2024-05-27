@@ -18,7 +18,10 @@ technical_background:
   ]
   
 currently_learning: ["Elixir, Phoenix LiveView, TypeScript, React, Next.js"]
-currently_reading:  ["The Effective Engineer, Edmond Lau"]
+currently_reading:  ["
+                      The Effective Engineer - Edmond Lau,
+                      The Software Engineer's Guidebook - Gergely Orosz
+                    "]
 topics_of_interest: ["tech", "cats", "personal development", "music", "books"]
 ```
 
