@@ -19,6 +19,7 @@ technical_background:
   
 currently_learning: ["Elixir, Phoenix LiveView, TypeScript, React, Next.js"]
 currently_reading:  [
+                      "Grokking Algorithms 2nd edition - Aditya Y. Bhargava",
                       "The Effective Engineer - Edmond Lau",
                       "The Software Engineer's Guidebook - Gergely Orosz",
                     ]
