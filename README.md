@@ -17,7 +17,7 @@ technical_background:
     "Intern - Full Stack Web Developer",
   ]
   
-currently_learning: ["Elixir, Phoenix LiveView, TypeScript, React, Next.js"]
+currently_learning: ["Elixir, Phoenix LiveView"]
 currently_reading:  [
                       "Grokking Algorithms 2nd edition - Aditya Y. Bhargava",
                       "The Effective Engineer - Edmond Lau",
