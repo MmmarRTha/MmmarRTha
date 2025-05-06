@@ -17,7 +17,7 @@ technical_background:
     "Intern - Full Stack Web Developer",
   ]
   
-currently_learning: ["Elixir, Phoenix LiveView, Vue.js 3"]
+currently_learning: ["Elixir, Phoenix LiveView, Vue.js"]
 currently_reading:  [
                       "Grokking Algorithms 2nd edition - Aditya Y. Bhargava",
                       "The Effective Engineer - Edmond Lau",
@@ -55,6 +55,7 @@ topics_of_interest: ["tech", "cats", "personal development", "music", "books"]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="ts" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
