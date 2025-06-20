@@ -3,7 +3,7 @@
 </h2>
 
 ```yaml
-name: Martha Nieto
+name: Martha M. Nieto
 located_in: Tijuana México
 education:
   [
@@ -23,7 +23,7 @@ currently_reading:  [
                       "The Effective Engineer - Edmond Lau",
                       "The Software Engineer's Guidebook - Gergely Orosz",
                     ]
-topics_of_interest: ["tech", "cats", "personal development", "music", "books"]
+topics_of_interest: ["tech", "cats", "dogs", "personal development", "music", "books"]
 ```
 
 ---
