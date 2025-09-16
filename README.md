@@ -7,7 +7,7 @@ name: Martha M. Nieto
 located_in: Tijuana México
 education:
   [
-    "Software Development Engineering at UnADM",
+    "Bachelor degree in Software Development Engineering at UnADM",
     "Self-Taught Learner",
   ]
 
