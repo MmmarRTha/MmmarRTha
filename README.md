@@ -18,7 +18,7 @@ technical_background:
   ]
   
 currently_reading:  [
-                      "Grokking Algorithms 2nd edition - Aditya Y. Bhargava",
+                      "Ash Framework Create Declarative Elixir Web Apps",
                       "The Effective Engineer - Edmond Lau",
                       "The Software Engineer's Guidebook - Gergely Orosz",
                     ]
