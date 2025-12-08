@@ -27,38 +27,37 @@ topics_of_interest: ["tech", "cats", "dogs", "personal development", "music", "b
 
 ---
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" alt="erlang" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" alt="elixir" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" alt="phoenix" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="45" height="45" />
-<img src="https://www.gigalixir.com/assets/images/gigalixir_logo.svg" alt="gigalixir" width="45" height="45" />
-<img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" alt="vercel" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg" alt="digital Ocean" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="composer" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="ts" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45"/>
-</p> 
+<h2> 🚀 &nbsp;Tech Stack:</h2>
+<div align="center">
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html-light.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css-light.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/typescript.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tailwindcss-light.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-light.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vuejs-light.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nextjs-light.svg" width="40"></a></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/php-light.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/elixir-light.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/erlang-light.svg" width="40"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" alt="phoenix" width="45" height="45"/>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/laravel-light.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-light.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-light.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-light.svg" width="40"></a>
+</div>
+<div align="center">
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vercel-light.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/digitalocean-light.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/azure-light.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vercel-light.svg" width="40"></a>
+  <a href="#"><img src="https://www.gigalixir.com/assets/images/gigalixir_logo.svg" alt="gigalixir" width="45" height="45"/>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux-light.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/windows-light.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-light.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bitbucket-light.svg" width="40"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bash-light.svg" width="40"></a>
+</div>
 
