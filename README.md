@@ -64,6 +64,8 @@ topics_of_interest: ["tech", "cats", "dogs", "personal development", "music", "b
  
  ---
 <h2> 📈 &nbsp;My GitHub History!</h2>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MmmarRTha&hide=html,css&layout=compact)
+
 
  ![MmmarRTha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MmmarRTha&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MmmarRTha&langs_count=10&layout=compact&theme=radical)](https://github.com/MmmarRTha/github-readme-stats)
