@@ -50,7 +50,6 @@ topics_of_interest: ["tech", "cats", "dogs", "personal development", "music", "b
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vercel-light.svg" width="40"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/digitalocean-light.svg" width="40"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/azure-light.svg" width="40"></a>
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vercel-light.svg" width="40"></a>
   <a href="#"><img src="https://www.gigalixir.com/assets/images/gigalixir_logo.svg" alt="gigalixir" width="45" height="45"/>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux-light.svg" width="40"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/windows-light.svg" width="40"></a>
