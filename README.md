@@ -60,17 +60,5 @@ topics_of_interest: ["tech", "cats", "dogs", "personal development", "music", "b
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45"/>
-</p>
- 
- ---
-<h2> 📈 &nbsp;My GitHub History!</h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MmmarRTha&hide=html,css&layout=compact)
-
-
- ![MmmarRTha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MmmarRTha&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MmmarRTha&langs_count=10&layout=compact&theme=radical)](https://github.com/MmmarRTha/github-readme-stats)
- ---
- <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=MmmarRTha&color=blueviolet"/>
- </p>
+</p> 
 
