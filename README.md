@@ -40,10 +40,10 @@ IO.inspect(martha)
 ---
 <div align="center">
   <a href="https://github.com/MmmarRTha/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MmmarRTha&theme=catppuccin_latte&layout=compact&hide_border=true" height="150px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MmmarRTha&size_weight=0.5&count_weight=0.5&theme=catppuccin_latte&layout=compact&hide_border=true" height="150px" />
   </a>
   <a href="https://github.com/iam-leo/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MmmarRTha&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" height="150px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MmmarRTha&show_icons=true&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" height="150px"/>
   </a>
 </div>
 <br>
