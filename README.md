@@ -41,57 +41,57 @@ IO.inspect(martha)
 
 <h2> 🖥️ &nbsp;Tech Stack:</h2>
 <div align="center">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/typescript.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/typescript.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tailwindcss-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tailwindcss-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vuejs-light.svg" width="40"></a
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vuejs-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nextjs-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nextjs-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/php-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/php-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/elixir-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/elixir-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/erlang-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/erlang-light.svg" width="40"></span>
   <img width="4">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" alt="phoenix" width="45" height="45"/>
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/laravel-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/laravel-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-light.svg" width="40"></span>
 </div>
 <div align="center">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vercel-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vercel-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/digitalocean-light.svg" width="40"></a>
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/digitalocean-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/azure-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/azure-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://www.gigalixir.com/assets/images/gigalixir_logo.svg" alt="gigalixir" width="45" height="45"/>
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux-light.svg" width="40"></a>
+  <img src="https://www.gigalixir.com/assets/images/gigalixir_logo.svg" alt="gigalixir" width="45" height="45"/>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/windows-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/windows-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bitbucket-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bitbucket-light.svg" width="40"></span>
   <img width="4">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bash-light.svg" width="40"></a>
+  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bash-light.svg" width="40"></span>
 </div>
 
