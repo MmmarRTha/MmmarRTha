@@ -38,8 +38,18 @@ IO.inspect(martha)
 ```
 
 ---
-
-<h2> 🖥️ &nbsp;Tech Stack:</h2>
+<div align="center">
+  <a href="https://github.com/MmmarRTha/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MmmarRTha&theme=catppuccin_latte&layout=compact&hide_border=true" height="150px" />
+  </a>
+  <a href="https://github.com/iam-leo/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=MmmarRTha&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" height="150px"/>
+  </a>
+</div>
+<br>
+<br>
+<br>
+<h2> 🖥️ &nbsp;Tech Stack</h2>
 <div align="center">
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/html-light.svg" width="40">
   <img width="4">
@@ -94,4 +104,3 @@ IO.inspect(martha)
   <img width="4">
   <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bash-light.svg" width="40"></span>
 </div>
-
