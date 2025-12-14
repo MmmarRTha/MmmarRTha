@@ -40,8 +40,8 @@ IO.inspect(martha)
 ---
 
 <h2> 🖥️ &nbsp;Tech Stack:</h2>
-<div align="center" style="position: relative;">
-  <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html-light.svg" width="40" style="pointer-events: none;"></span>
+<div align="center">
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/html-light.svg" width="40">
   <img width="4">
   <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css-light.svg" width="40"></span>
   <img width="4">
@@ -71,7 +71,6 @@ IO.inspect(martha)
   <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-light.svg" width="40"></span>
   <img width="4">
   <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-light.svg" width="40"></span>
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(255, 255, 255, 0);"></div>
 </div>
 <div align="center">
   <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vercel-light.svg" width="40"></span>
