@@ -92,4 +92,12 @@ IO.inspect(martha)
   <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bitbucket-light.svg" width="40"></span>
   <img width="4">
   <span><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bash-light.svg" width="40"></span>
-</div>
+</div><br>
+
+<p align="center">
+  <a href="https://github.com/MmmarRTha">
+    <img title="GitHub Stats" alt="Martha's streak" src="https://streak-stats.demolab.com/?user=MmmarRTha&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  </a>
+</p><br>
+
+[![Martha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MmmarRTha&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/MmmarRTha/github-readme-activity-graph)
