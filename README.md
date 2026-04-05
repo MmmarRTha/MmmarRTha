@@ -38,9 +38,6 @@ IO.inspect(martha)
 ```
 
 ---
-<div align="center">
-</div>
-<br>
 <h2> 🖥️ &nbsp;Tech Stack</h2>
 <div align="center">
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/html-light.svg" width="40">
