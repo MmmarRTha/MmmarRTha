@@ -69,8 +69,3 @@ IO.inspect(martha)
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/bash-light.svg" width="35" />
 </div>
 <br>
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MmmarRTha&theme=github_dark" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MmmarRTha&theme=github_dark" alt="Top Lang"/>
-</div>
