@@ -38,6 +38,10 @@ IO.inspect(martha)
 ```
 
 ---
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MmmarRTha&theme=github_dark" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MmmarRTha&theme=github_dark" alt="Top Lang" />
+</div>
 <h2> 🖥️ &nbsp;Tech Stack</h2>
 <div align="center">
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/html-light.svg" width="35" />
@@ -69,3 +73,6 @@ IO.inspect(martha)
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/bash-light.svg" width="35" />
 </div>
 <br>
+
+
+
